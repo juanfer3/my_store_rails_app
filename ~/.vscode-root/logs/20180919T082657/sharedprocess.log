@@ -1,0 +1,52 @@
+[2018-09-19 08:27:03.280] [sharedprocess] [info] main {"machineId":"f391cf1e128c7a12d3142ae132058c63ccf9378c9f15b95c65e7378ea4f5de92"}
+[2018-09-19 08:27:04.609] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-19 08:27:04.734] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-19 08:27:04.746] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-19 08:27:04.756] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-19 08:27:05.141] [sharedprocess] [info] Scanned system extensions: 71
+[2018-09-19 08:27:05.141] [sharedprocess] [info] Scanned system extensions: 71
+[2018-09-19 08:27:05.150] [sharedprocess] [info] Scanned system extensions: 71
+[2018-09-19 08:27:05.670] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-19 08:27:05.714] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-19 08:27:06.774] [sharedprocess] [info] Installing extension: vsliveshare
+[2018-09-19 08:27:06.797] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-19 08:27:13.818] [sharedprocess] [info] Downloaded extension: vsliveshare /tmp/7cdda90d-436f-4911-92cf-53c84f017c10
+[2018-09-19 08:27:25.177] [sharedprocess] [info] Extracted extension to /home/jfvilladiego/.vscode/extensions/.ms-vsliveshare.vsliveshare-0.3.709: ms-vsliveshare.vsliveshare-0.3.709
+[2018-09-19 08:27:25.177] [sharedprocess] [info] Renamed to /home/jfvilladiego/.vscode/extensions/ms-vsliveshare.vsliveshare-0.3.709
+[2018-09-19 08:27:25.177] [sharedprocess] [info] Installation completed. ms-vsliveshare.vsliveshare-0.3.709
+[2018-09-19 08:27:25.600] [sharedprocess] [info] Extensions installed successfully: ms-vsliveshare.vsliveshare
+[2018-09-19 08:27:25.758] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-19 08:27:25.769] [sharedprocess] [info] Scanned system extensions: 71
+[2018-09-19 08:27:43.286] [sharedprocess] [info] Starting to clean up unused language packs.
+[2018-09-19 08:32:05.726] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-19 08:37:05.773] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-19 08:42:05.820] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-19 08:47:05.865] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-19 08:52:05.910] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-19 08:57:05.957] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-19 09:02:06.003] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-19 09:07:06.046] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-19 09:12:06.089] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-19 09:17:06.137] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-19 09:22:06.184] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-19 09:27:06.378] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-19 09:32:06.423] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-19 09:37:06.465] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-19 09:42:06.519] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-19 09:47:06.560] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-19 09:52:06.606] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-19 09:57:06.650] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-19 10:02:06.697] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-19 10:07:06.742] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-19 10:12:06.781] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-19 10:17:06.823] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-19 10:22:06.870] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-19 10:27:06.937] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-19 10:32:06.993] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-19 10:33:28.616] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-19 10:33:28.846] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-19 10:33:28.849] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-19 10:33:28.851] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-19 10:33:28.960] [sharedprocess] [info] Scanned system extensions: 71
+[2018-09-19 10:33:28.966] [sharedprocess] [info] Scanned system extensions: 71
+[2018-09-19 10:33:28.973] [sharedprocess] [info] Scanned system extensions: 71

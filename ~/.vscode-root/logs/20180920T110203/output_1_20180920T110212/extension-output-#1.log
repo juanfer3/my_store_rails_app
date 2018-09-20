@@ -1,0 +1,1289 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /home/jfvilladiego/proyectos_rails/my_store
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :app/assets/stylesheets/application.css.scss
+> git ls-files --stage -- app/assets/stylesheets/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git show :app/views/categorias/index.json.jbuilder
+> git ls-files --stage -- app/views/categorias/
+> git show :app/views/categorias/index.html.erb
+> git ls-files --stage -- app/views/categorias/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/assets/stylesheets/application.css.scss
+> git ls-files --stage -- app/assets/stylesheets/
+> git show :app/views/categorias/index.html.erb
+> git ls-files --stage -- app/views/categorias/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/assets/stylesheets/application.css.scss
+> git ls-files --stage -- app/assets/stylesheets/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/views/categorias/index.html.erb
+> git ls-files --stage -- app/views/categorias/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/assets/stylesheets/application.css.scss
+> git ls-files --stage -- app/assets/stylesheets/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Gemfile.lock
+> git ls-files --stage -- ./
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Gemfile
+> git ls-files --stage -- ./
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/views/categorias/index.html.erb
+> git ls-files --stage -- app/views/categorias/
+> git show :app/assets/stylesheets/application.css.scss
+> git ls-files --stage -- app/assets/stylesheets/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/views/categorias/index.html.erb
+> git ls-files --stage -- app/views/categorias/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Gemfile
+> git ls-files --stage -- ./
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/views/categorias/index.html.erb
+> git ls-files --stage -- app/views/categorias/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/views/categorias/index.json.jbuilder
+> git ls-files --stage -- app/views/categorias/
+> git show :app/views/categorias/index.html.erb
+> git ls-files --stage -- app/views/categorias/
+> git show :app/views/categorias/index.json.jbuilder
+> git ls-files --stage -- app/views/categorias/
+> git show :app/views/categorias/index.html.erb
+> git ls-files --stage -- app/views/categorias/
+> git show :app/assets/stylesheets/application.css.scss
+> git ls-files --stage -- app/assets/stylesheets/
+> git show :app/views/categorias/index.json.jbuilder
+> git ls-files --stage -- app/views/categorias/
+> git show :app/views/categorias/index.html.erb
+> git ls-files --stage -- app/views/categorias/
+> git show :app/views/categorias/index.json.jbuilder
+> git ls-files --stage -- app/views/categorias/
+> git show :app/views/categorias/index.html.erb
+> git ls-files --stage -- app/views/categorias/
+> git show :app/assets/stylesheets/application.css.scss
+> git ls-files --stage -- app/assets/stylesheets/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Gemfile
+> git ls-files --stage -- ./
+> git show :app/views/categorias/index.html.erb
+> git ls-files --stage -- app/views/categorias/
+> git show :app/assets/stylesheets/application.css.scss
+> git ls-files --stage -- app/assets/stylesheets/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/views/categorias/index.html.erb
+> git ls-files --stage -- app/views/categorias/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Gemfile
+> git ls-files --stage -- ./
+> git show :app/assets/stylesheets/application.css.scss
+> git ls-files --stage -- app/assets/stylesheets/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/views/categorias/index.html.erb
+> git ls-files --stage -- app/views/categorias/
+> git show :Gemfile
+> git ls-files --stage -- ./
+> git show :app/assets/stylesheets/application.css.scss
+> git ls-files --stage -- app/assets/stylesheets/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/views/categorias/index.html.erb
+> git ls-files --stage -- app/views/categorias/
+> git show :Gemfile
+> git ls-files --stage -- ./
+> git show :app/assets/stylesheets/application.css.scss
+> git ls-files --stage -- app/assets/stylesheets/
+> git show :app/views/categorias/index.html.erb
+> git ls-files --stage -- app/views/categorias/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Gemfile
+> git ls-files --stage -- ./
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/assets/stylesheets/application.css.scss
+> git ls-files --stage -- app/assets/stylesheets/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Gemfile
+> git ls-files --stage -- ./
+> git show :app/assets/stylesheets/application.css.scss
+> git ls-files --stage -- app/assets/stylesheets/
+> git show :app/assets/stylesheets/scaffolds.scss
+> git ls-files --stage -- app/assets/stylesheets/
+> git show :app/assets/stylesheets/application.css.scss
+> git ls-files --stage -- app/assets/stylesheets/
+> git show :app/assets/stylesheets/categorias.scss
+> git ls-files --stage -- app/assets/stylesheets/
+> git show :app/assets/stylesheets/application.css.scss
+> git ls-files --stage -- app/assets/stylesheets/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/assets/stylesheets/categorias.scss
+> git ls-files --stage -- app/assets/stylesheets/
+> git show :app/assets/stylesheets/application.css.scss
+> git ls-files --stage -- app/assets/stylesheets/
+> git show :app/views/categorias/index.html.erb
+> git ls-files --stage -- app/views/categorias/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git show :Gemfile
+> git symbolic-ref --short HEAD
+> git ls-files --stage -- ./
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/assets/stylesheets/application.css.scss
+> git ls-files --stage -- app/assets/stylesheets/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/views/categorias/index.html.erb
+> git ls-files --stage -- app/views/categorias/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Gemfile
+> git ls-files --stage -- ./
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/assets/stylesheets/application.css.scss
+> git ls-files --stage -- app/assets/stylesheets/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/views/categorias/index.html.erb
+> git ls-files --stage -- app/views/categorias/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Gemfile
+> git ls-files --stage -- ./
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/views/categorias/index.html.erb
+> git ls-files --stage -- app/views/categorias/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Gemfile
+> git ls-files --stage -- ./
+> git show :app/assets/stylesheets/application.css.scss
+> git ls-files --stage -- app/assets/stylesheets/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git show :app/views/layouts/_navigation.html.erb
+> git ls-files --stage -- app/views/layouts/
+> git show :app/views/layouts/_navigation_links.html.erb
+> git ls-files --stage -- app/views/layouts/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/views/layouts/_navigation.html.erb
+> git ls-files --stage -- app/views/layouts/
+> git show :app/views/layouts/_navigation_links.html.erb
+> git ls-files --stage -- app/views/layouts/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/views/layouts/application.html.erb
+> git ls-files --stage -- app/views/layouts/
+> git show :app/views/layouts/_navigation_links.html.erb
+> git ls-files --stage -- app/views/layouts/
+> git show :app/views/layouts/_navigation.html.erb
+> git ls-files --stage -- app/views/layouts/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/views/layouts/_navigation.html.erb
+> git ls-files --stage -- app/views/layouts/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: argumento ambiguo 'master': revisión desconocida o ruta fuera del árbol de trabajo.
+Use '--' para separar las rutas de las revisiones, de esta manera:
+'git <comando> [<revisión>...] -- [<archivo>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/views/layouts/_navigation.html.erb
+> git ls-files --stage -- app/views/layouts/

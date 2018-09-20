@@ -1,0 +1,45 @@
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, or any plugin's
+ * vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any other CSS/SCSS
+ * files in this directory. Styles in this file should be added after the last require_* statement.
+ * It is generally better to create a new file per style scope.
+ *
+ *= require owl.carousel 
+ *= require owl.theme
+ *= require material_icons
+ *= require_tree .
+ *= require_self
+ */
+
+// Categorias/index
+.contenedor_lista_categoria {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    align-items: center;
+    -webkit-flex-flow: row wrap;
+}
+
+.lista_categoria {
+    padding: 5px;
+    margin-top: 10px;
+}
+
+.card-body button:hover {
+    background: #EAEAEA!important;
+}
+
+.card-body a:hover {
+    background: #EAEAEA!important;
+}

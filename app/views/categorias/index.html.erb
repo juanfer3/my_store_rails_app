@@ -1,0 +1,53 @@
+<p id="notice"><%= notice %></p>
+<br/>
+
+<h1 class="text-center" >Categorias</h1>
+
+
+<!--%= material_icon.face %-->
+<i class="material-icons">delete_sweep</i>
+
+<div class="contenedor_lista_categoria">
+
+
+<% @categorias.each do |categoria| %>
+
+ 
+
+  <div class="lista_categoria col-3 col-sm">
+    
+    <div class="card" style="width: 18rem;">
+      <img class="card-img-top" src="https://image.freepik.com/free-icon/box-outline-shape-opened_318-32823.jpg" alt="Card image cap">
+      <div class="card-body">
+        <div class="contenedor_lista_categoria" >
+          <h5 class="card-title"><%= categoria.nombre %></h5>
+
+        </div>
+        <div class="contenedor_lista_categoria" >
+          <%= link_to "<button type='button' class='btn btn-primary'>#{material_icon.list}</button>".html_safe, categoria %>
+          <%= link_to "<button type='button' class='btn btn-warning'>#{material_icon.create}</button>".html_safe, edit_categoria_path(categoria) %>
+          <%= link_to "<button type='button' class='btn btn-danger'>#{material_icon.delete_sweep}</button>".html_safe, categoria, method: :delete, data: { confirm: 'Are you sure?' } %>
+        </div>
+    </div>
+  </div>
+
+</div>
+  
+<% end %>
+
+
+
+
+</div>
+
+
+
+      
+        
+        <!--%= image_tag categoria.imagen.url(:thumb) %-->
+     
+
+
+<br>
+
+<%= link_to 'New Categoria', new_categoria_path %>
