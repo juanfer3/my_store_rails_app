@@ -1,0 +1,54 @@
+[2018-09-24 15:48:06.797] [sharedprocess] [info] main {"machineId":"f391cf1e128c7a12d3142ae132058c63ccf9378c9f15b95c65e7378ea4f5de92"}
+[2018-09-24 15:48:09.049] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-24 15:48:09.657] [sharedprocess] [info] Scanned system extensions: 71
+[2018-09-24 15:48:10.046] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-24 15:48:10.062] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-24 15:48:10.069] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-24 15:48:10.107] [sharedprocess] [info] Scanned system extensions: 71
+[2018-09-24 15:48:10.114] [sharedprocess] [info] Scanned system extensions: 71
+[2018-09-24 15:48:11.138] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-24 15:48:11.147] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-24 15:48:12.601] [sharedprocess] [info] Installing extension: php-debug
+[2018-09-24 15:48:12.601] [sharedprocess] [info] Installing extension: beautify
+[2018-09-24 15:48:12.636] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-24 15:48:12.639] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-24 15:48:13.085] [sharedprocess] [info] Downloaded extension: beautify /tmp/f4a69092-343d-490a-a584-aa2489334a74
+[2018-09-24 15:48:13.821] [sharedprocess] [info] Downloaded extension: php-debug /tmp/7771c5da-ee53-403e-9925-fc9c3f02ee57
+[2018-09-24 15:48:23.851] [sharedprocess] [info] Extracted extension to /home/jfvilladiego/.vscode/extensions/.hookyqr.beautify-1.4.4: hookyqr.beautify-1.4.4
+[2018-09-24 15:48:23.851] [sharedprocess] [info] Renamed to /home/jfvilladiego/.vscode/extensions/hookyqr.beautify-1.4.4
+[2018-09-24 15:48:23.851] [sharedprocess] [info] Installation completed. hookyqr.beautify-1.4.4
+[2018-09-24 15:48:24.125] [sharedprocess] [info] Extracted extension to /home/jfvilladiego/.vscode/extensions/.felixfbecker.php-debug-1.12.6: felixfbecker.php-debug-1.12.6
+[2018-09-24 15:48:24.125] [sharedprocess] [info] Renamed to /home/jfvilladiego/.vscode/extensions/felixfbecker.php-debug-1.12.6
+[2018-09-24 15:48:24.125] [sharedprocess] [info] Installation completed. felixfbecker.php-debug-1.12.6
+[2018-09-24 15:48:25.548] [sharedprocess] [info] Extensions installed successfully: hookyqr.beautify
+[2018-09-24 15:48:25.549] [sharedprocess] [info] Extensions installed successfully: felixfbecker.php-debug
+[2018-09-24 15:48:25.747] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-24 15:48:25.749] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-24 15:48:25.776] [sharedprocess] [info] Scanned system extensions: 71
+[2018-09-24 15:48:25.782] [sharedprocess] [info] Scanned system extensions: 71
+[2018-09-24 15:48:46.803] [sharedprocess] [info] Starting to clean up unused language packs.
+[2018-09-24 15:53:11.398] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-24 15:58:12.362] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-24 16:03:12.426] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-24 16:08:12.488] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-24 16:13:12.549] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-24 16:18:12.607] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-24 16:23:12.664] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-24 16:28:12.722] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-24 16:33:12.772] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-24 16:38:12.819] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-24 16:43:12.865] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-24 16:48:13.371] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-24 16:53:13.419] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-24 16:58:13.467] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-24 17:03:13.510] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-24 17:08:13.556] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-24 17:13:13.595] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-24 17:18:13.642] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-24 17:23:13.696] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-24 17:28:13.748] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-24 17:33:13.878] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-24 17:38:13.926] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-24 17:43:14.056] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-24 17:48:14.839] [sharedprocess] [info] Scanned user extensions: 32
+[2018-09-24 17:53:15.986] [sharedprocess] [info] Scanned user extensions: 32

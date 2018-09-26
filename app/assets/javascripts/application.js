@@ -18,6 +18,10 @@
 //= require_tree .
 
 $(document).on('turbolinks:load', function () {
+
+ 
+    $('.mdb-select').material_select();
+    
     $(".owl-carousel").owlCarousel({
         loop: true,
             margin: 10,

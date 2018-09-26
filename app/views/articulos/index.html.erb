@@ -1,0 +1,48 @@
+<p id="notice"><%= notice %></p>
+<div class="contenedor_lista_categoria" >
+  <h1 class="col-auto mr-auto">Articulos</h1>
+  <div class="col-auto btn_url">
+    
+    <%= link_to "<button type='button' class='btn btn-success bmd-btn-fab'>
+    <i class='material-icons'>playlist_add</i>
+  </button>".html_safe, new_articulo_path %>
+</div>
+</div>
+
+
+<br/>
+
+<div class="contenedor_lista_categoria" >
+  
+  <% @articulos.each do |articulo| %>
+
+    <div class="lista_categoria col-3 col-sm">
+      <div class="card" style="width: 18rem;">
+        <!--img class="card-img-top" src="https://static.makeuseof.com/wp-content/uploads/2014/06/Best-Places-To-Read-Online-670x335.jpg" alt="Card image cap"-->
+        <%= image_tag articulo.imagen.url(:thumb), :class => "card-img-top" %>
+        <div class="card-body">
+          <h5 class="card-title"> <%= articulo.nombre %> </h5>
+          <div class="contenedor_lista_categoria" >
+            <%= link_to "<button type='button' class='btn btn-primary'>#{material_icon.list}</button>".html_safe, articulo %>
+            <%= link_to "<button type='button' class='btn btn-warning'>#{material_icon.create}</button>".html_safe, edit_articulo_path(articulo) %>
+            <%= link_to "<button type='button' class='btn btn-danger'>#{material_icon.delete_sweep}</button>".html_safe, articulo, method: :delete, data: { confirm: 'Are you sure?' } %>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  <% end %>
+  
+</div>
+
+
+
+
+<br>
+
+<div class="col-auto btn_url">
+    
+    <%= link_to "<button type='button' class='btn btn-success bmd-btn-fab'>
+    <i class='material-icons'>playlist_add</i>
+  </button>".html_safe, new_articulo_path %>
+</div>

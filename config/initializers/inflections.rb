@@ -16,6 +16,7 @@
 # end
 
 ActiveSupport::Inflector.inflections(:en) do |inflect|
+    
     inflect.irregular 'categoria', 'categorias'
     inflect.irregular 'nombre', 'nombres'
     inflect.irregular 'descripcion', 'descripciones'
@@ -27,5 +28,4 @@ ActiveSupport::Inflector.inflections(:en) do |inflect|
     inflect.irregular 'cantidad', 'cantidades'
     inflect.irregular 'nuevo', 'nuevos'
     
-
 end

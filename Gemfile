@@ -72,3 +72,6 @@ gem 'owlcarousel-rails'
 gem "paperclip", "~> 6.0.0"
 
 gem 'material_icons'
+
+#gem combobox select
+gem 'material_kit', '~> 1.0', '>= 1.0.0.2'

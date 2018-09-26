@@ -17,6 +17,39 @@
  *= require_self
  */
 
+
+// General 
+
+
+.titulos_header{
+    color:#009688;
+}
+
+body {
+   
+}
+//
+.contenedor_beetewn_space {
+display: flex;
+justify-content: space-between;
+flex-wrap: wrap;
+display: -webkit-box;
+display: -moz-box;
+display: -ms-flexbox;
+display: -webkit-flex;
+display: flex;
+align-items: center;
+-webkit-flex-flow: row wrap;
+
+}
+.btn_url a{
+
+    width: 70%;
+    background: white;
+    border-radius: 15%;
+
+}
+
 // Categorias/index
 .contenedor_lista_categoria {
     display: flex;
@@ -43,3 +76,5 @@
 .card-body a:hover {
     background: #EAEAEA!important;
 }
+
+
