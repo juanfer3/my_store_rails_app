@@ -1,0 +1,63 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /home/jfvilladiego/proyectos_rails/my_store
+> git status -z -u
+> git check-ignore -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git show :app/models/contenedor_imagenes_articulo.rb
+> git ls-files --stage -- app/models/
+> git show :app/views/articulos/_articulo.json.jbuilder
+> git show :app/views/articulos/index.html.erb
+> git show :app/models/articulo.rb
+> git show :app/models/contenedor_imagenes_articulo.rb
+> git ls-files --stage -- app/models/
+> git show :app/views/articulos/_contenedor_imagenes_articulo.erb
+> git ls-files --stage -- app/views/articulos/
+> git show :app/views/articulos/_form.html.erb
+> git show :app/views/articulos/index.html.erb
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/models/contenedor_imagenes_articulo.rb
+> git ls-files --stage -- app/models/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/views/articulos/index.html.erb

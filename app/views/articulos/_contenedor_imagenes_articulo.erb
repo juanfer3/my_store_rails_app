@@ -1,0 +1,19 @@
+<tr>
+              <td>
+                  <div class="input-group">
+                    <div class="custom-file">
+                 
+                      <!--%=f.file_field 'imagen'%-->
+                      <%= f.input :imagen, as: :file, :input_html => { :class => 'custom-file-input' }%>
+                    </div>
+                  </div>
+              </td>
+
+
+              <td>
+                <label for=""></label> <br>
+                <%= f.input_field :_destroy, as: :hidden %>
+                <%= link_to "<button type='button' class='btn btn-danger'>#{material_icon.delete_sweep}</button>".html_safe, 
+                '#', class: 'remove_nombre_facturacion' %>
+              </td>
+</tr>

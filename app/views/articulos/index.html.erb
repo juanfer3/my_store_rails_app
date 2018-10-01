@@ -19,7 +19,7 @@
     <div class="lista_categoria col-3 col-sm">
       <div class="card" style="width: 18rem;">
         <!--img class="card-img-top" src="https://static.makeuseof.com/wp-content/uploads/2014/06/Best-Places-To-Read-Online-670x335.jpg" alt="Card image cap"-->
-        <%= image_tag articulo.imagen.url(:thumb), :class => "card-img-top" %>
+        <%= image_tag articulo.contenedores_imagenes_articulos.first.imagen.url(:large), :class => "card-img-top" %>
         <div class="card-body">
           <h5 class="card-title"> <%= articulo.nombre %> </h5>
           <div class="contenedor_lista_categoria" >

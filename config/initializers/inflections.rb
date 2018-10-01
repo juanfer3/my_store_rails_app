@@ -27,5 +27,6 @@ ActiveSupport::Inflector.inflections(:en) do |inflect|
     inflect.irregular 'precio', 'precios'
     inflect.irregular 'cantidad', 'cantidades'
     inflect.irregular 'nuevo', 'nuevos'
-    
+    inflect.irregular 'contenedor_imagenes_articulo', 'contenedores_imagenes_articulos'
+
 end

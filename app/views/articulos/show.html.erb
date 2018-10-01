@@ -1,34 +1,101 @@
 <p id="notice"><%= notice %></p>
 
-<p>
-  <strong>Categoria:</strong>
-  <%= @articulo.categoria %>
-</p>
 
-<p>
-  <strong>Nombre:</strong>
-  <%= @articulo.nombre %>
-</p>
 
-<p>
-  <strong>Descripcion:</strong>
-  <%= @articulo.descripcion %>
-</p>
 
-<p>
-  <strong>Cantidad:</strong>
-  <%= @articulo.cantidad %>
-</p>
 
-<p>
-  <strong>Precio:</strong>
-  <%= @articulo.precio %>
-</p>
+<div class="row">
+  <div class="col-6 col-md-2">
 
-<p>
-  <strong>Nuevo:</strong>
-  <%= @articulo.nuevo %>
-</p>
+      <div class="card" style="width: 8rem;">
+        <div class="card-body">
+          <h1>foto</h1>
+        </div>
+      </div>
+
+      <br/>
+
+      <div class="card" style="width: 8rem;">
+        <div class="card-body">
+          <h1>foto</h1>
+        </div>
+      </div>
+
+      <br/>
+
+      <div class="card" style="width: 8rem;">
+        <div class="card-body">
+          <h1>foto</h1>
+        </div>
+      </div>
+
+      <br/>
+
+      <div class="card" style="width: 8rem;">
+        <div class="card-body">
+          <h1>foto</h1>
+        </div>
+      </div>
+
+
+  </div>
+  <div class="col-6 col-md-8">
+
+    <div class="container" >
+
+
+      <div class="owl-carousel">
+          
+            <div class="card container" >
+              <img class="card-img-top" src="https://static.makeuseof.com/wp-content/uploads/2014/06/Best-Places-To-Read-Online-670x335.jpg" alt="Card image cap">
+              <div class="card-body">
+             
+              </div>
+            </div>
+
+            <div class="card container" >
+              <img class="card-img-top" src="https://static.makeuseof.com/wp-content/uploads/2014/06/Best-Places-To-Read-Online-670x335.jpg" alt="Card image cap">
+              <div class="card-body">
+               
+              </div>
+            </div>
+
+            <div class="card container" >
+              <img class="card-img-top" src="https://static.makeuseof.com/wp-content/uploads/2014/06/Best-Places-To-Read-Online-670x335.jpg" alt="Card image cap">
+              <div class="card-body">
+                
+              </div>
+            </div>
+
+
+            <div class="card container" >
+              <img class="card-img-top" src="https://static.makeuseof.com/wp-content/uploads/2014/06/Best-Places-To-Read-Online-670x335.jpg" alt="Card image cap">
+              <div class="card-body">
+                
+              </div>
+            </div>
+
+            <div class="card container" >
+              <img class="card-img-top" src="https://static.makeuseof.com/wp-content/uploads/2014/06/Best-Places-To-Read-Online-670x335.jpg" alt="Card image cap">
+              <div class="card-body">
+              
+              </div>
+            </div>
+    </div>
+
+    
+      
+
+
+      
+
+
+    </div>
+  
+  
+  </div>
+  <div class="col-6 col-md-2">.col-6 .col-md-4</div>
+</div>
 
 <%= link_to 'Edit', edit_articulo_path(@articulo) %> |
 <%= link_to 'Back', articulos_path %>

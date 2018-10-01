@@ -19,8 +19,22 @@
 
 $(document).on('turbolinks:load', function () {
 
+
+   
  
-    $('.mdb-select').material_select();
+    $('form').on('click', '.add_articulos_imagenes', function (event) {
+        var regexp, time;
+        time = new Date().getTime();
+        regexp = new RegExp($(this).data('id'), 'g');
+        $('.fields_articulos_imagenes').append($(this).data('fields').replace(regexp, time));
+        return event.preventDefault();
+    });
+
+    $('form').on('click', '.remove_nombre_facturacion', function (event) {
+        $(this).prev('input[type=hidden]').val('1');
+        $(this).closest('tr').remove();
+        return event.preventDefault();
+    });
     
     $(".owl-carousel").owlCarousel({
         loop: true,
@@ -32,14 +46,21 @@ $(document).on('turbolinks:load', function () {
                     nav: true
                 },
                 600: {
-                    items: 2,
+                    items: 1,
                     nav: false
                 },
                 1000: {
-                    items: 3,
+                    items: 1,
                     nav: true,
                     loop: false
                 }
             }
     });
+
+
+   
+
+  
+
+
 })

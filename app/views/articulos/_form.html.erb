@@ -1,5 +1,5 @@
 
-<%= simple_form_for(@articulo) do |f| %>
+<%= simple_form_for(@articulo, input_html: {multipart: true}) do |f| %>
   <%= f.error_notification %>
   <%= f.error_notification message: f.object.errors[:base].to_sentence if f.object.errors[:base].present? %>
 
@@ -68,8 +68,30 @@
 
                   
 
+                  <div >
+                    <%= link_to_add_articulos_imagenes("<button type='button' class='btn btn-warning'>Plus</button>".html_safe, f, :contenedores_imagenes_articulos, class: '') %>
+                  </div>
+
+                  <table class="table">
+                  <tbody class='fields_articulos_imagenes'>
+                    <%=f.fields_for :contenedores_imagenes_articulos do |img|%>
+
+                      <%= render 'contenedor_imagenes_articulo', f:img%>
+
+                    <%end%>
+                  </tbody>
+                </table>
+
+
+                
                   
+
+                
   </div>
+
+
+                
+
 
                 <div class="">
                     <%= button_tag type: 'submit', class: "btn btn-primary btn-lg btn-block" do %>

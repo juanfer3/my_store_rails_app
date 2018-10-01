@@ -15,6 +15,7 @@ class ArticulosController < ApplicationController
   # GET /articulos/new
   def new
     @articulo = Articulo.new
+    @articulo.contenedores_imagenes_articulos.build
   end
 
   # GET /articulos/1/edit
@@ -69,6 +70,8 @@ class ArticulosController < ApplicationController
 
     # Never trust parameters from the scary internet, only allow the white list through.
     def articulo_params
-      params.require(:articulo).permit(:categoria_id, :nombre, :descripcion, :cantidad, :precio, :nuevo, :imagen)
+      params.require(:articulo).permit(:categoria_id, :nombre, :descripcion, :cantidad, :precio, :nuevo, :imagen,
+      contenedores_imagenes_articulos_attributes:[:nombre, :imagen, :_destroy, :id]
+      )
     end
 end
