@@ -1,0 +1,8 @@
+[2018-10-03 08:27:57.765] [renderer1] [info] no standard startup: panel is active
+[2018-10-03 10:32:41.253] [renderer1] [error] Unexpected SIGPIPE: Error: Unexpected SIGPIPE
+    at process.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:848:879)
+    at emitNone (events.js:106:13)
+    at process.emit (events.js:208:7)
+    at process.emit (/home/jfvilladiego/.vscode/extensions/ms-vsliveshare.vsliveshare-0.3.735/node_modules/source-map-support/source-map-support.js:454:21)
+    at process.emit (/home/jfvilladiego/.vscode/extensions/zignd.html-css-class-completion-1.17.1/node_modules/source-map-support/source-map-support.js:453:21)
+    at Signal.wrap.onsignal (internal/process.js:208:44)

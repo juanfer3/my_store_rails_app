@@ -19,7 +19,42 @@
 
 $(document).on('turbolinks:load', function () {
 
+    $('.my_input_file').hide();
 
+    function inputsFiles() {
+
+
+        $( ".js-labelFile" ).click(function() {
+            
+            
+            $(this).parents("tr").find('.my_input_file').trigger('click'); 
+
+            $('.my_input_file').change(function (element){
+                alert('change')
+                var fileName = '';
+                if (element.target.value) fileName = element.target.value.split('\\').pop();
+                var my_label = $(this).parents("tr").find('.js-fileName');
+                my_label.addClass('has-file');
+                my_label.html(fileName);
+                console.log(fileName);
+
+            });
+
+            
+
+            //fileName ? $label.addClass('has-file').find('.js-fileName').html(fileName) : $label.removeClass('has-file').html(labelVal);
+            
+            
+        });
+
+
+        
+
+
+    }
+
+   
+    
    
  
     $('form').on('click', '.add_articulos_imagenes', function (event) {
@@ -27,12 +62,16 @@ $(document).on('turbolinks:load', function () {
         time = new Date().getTime();
         regexp = new RegExp($(this).data('id'), 'g');
         $('.fields_articulos_imagenes').append($(this).data('fields').replace(regexp, time));
+        
+        $('.my_input_file').hide();
         return event.preventDefault();
     });
 
     $('form').on('click', '.remove_nombre_facturacion', function (event) {
         $(this).prev('input[type=hidden]').val('1');
         $(this).closest('tr').remove();
+    
+        $('.my_input_file').hide();
         return event.preventDefault();
     });
     

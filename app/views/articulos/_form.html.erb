@@ -43,14 +43,6 @@
                                 <%= f.input :precio, label:false, :input_html => { :class => 'form-control' }%>
                               </div>
 
-
-
-                            <div class="input-group">
-                              <div class="custom-file">
-                                <!--%=f.file_field 'imagen'%-->
-                                <%= f.input :imagen, as: :file, :input_html => { :class => 'custom-file-input' }%>
-                              </div>
-                            </div>
                             
                           
                                 
@@ -88,11 +80,6 @@
 
                 
   </div>
-
-
-                
-
-
                 <div class="">
                     <%= button_tag type: 'submit', class: "btn btn-primary btn-lg btn-block" do %>
                       <span>Guardar
@@ -101,3 +88,26 @@
                     <% end %>
                   </div>
 <% end %>
+
+
+
+
+
+<!--div class="form-group">
+  <input type="file" name="file" id="file" class="input-file">
+  <label for="file" class="btn btn-tertiary js-labelFile">
+    <i class="icon fa fa-check"></i>
+    <span class="js-fileName">Choose a file</span>
+  </label>
+</div-->
+
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet">
+
+<div class="form-group">
+  <label class="label">
+    <i class="material-icons">attach_file</i>
+    <span class="title">Add File</span>
+    <input type="file" />
+  </label>
+</div>

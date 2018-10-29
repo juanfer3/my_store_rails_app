@@ -61,3 +61,18 @@ fatal: no se ha configurado upstream para la rama 'master'
 > git for-each-ref --format %(refname) %(objectname) --sort -committerdate
 > git remote --verbose
 > git show :app/views/articulos/index.html.erb
+> git show :app/views/articulos/index.html.erb
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose

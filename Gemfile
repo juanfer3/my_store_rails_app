@@ -75,3 +75,6 @@ gem 'material_icons'
 
 #gem combobox select
 gem 'material_kit', '~> 1.0', '>= 1.0.0.2'
+
+gem 'table_print'
+gem 'colorize'

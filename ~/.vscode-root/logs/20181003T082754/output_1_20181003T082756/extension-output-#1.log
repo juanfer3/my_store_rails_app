@@ -1,0 +1,32 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /home/jfvilladiego/proyectos_rails/my_store
+> git status -z -u
+> git check-ignore -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no se ha configurado upstream para la rama 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :Gemfile
+> git show :app/views/layouts/application.html.erb
+> git show :app/views/layouts/_navigation.html.erb
+> git check-ignore -z --stdin
+> git show :app/assets/stylesheets/application.css.scss
+> git show :app/views/categorias/index.html.erb
+> git show :app/assets/stylesheets/application.css.scss
+> git show :Gemfile
+> git show :app/assets/stylesheets/application.css.scss
+> git check-ignore -z --stdin
+> git show :app/assets/javascripts/application.js
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :config/routes.rb

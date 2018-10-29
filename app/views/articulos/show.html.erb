@@ -7,37 +7,15 @@
 <div class="row">
   <div class="col-6 col-md-2">
 
+    <%@articulo.contenedores_imagenes_articulos do |imagen| %>
       <div class="card" style="width: 8rem;">
         <div class="card-body">
-          <h1>foto</h1>
+          <h1>  <%= image_tag imagen.imagen.url(:large), :class => "card-img-top" %> </h1>
         </div>
       </div>
 
       <br/>
-
-      <div class="card" style="width: 8rem;">
-        <div class="card-body">
-          <h1>foto</h1>
-        </div>
-      </div>
-
-      <br/>
-
-      <div class="card" style="width: 8rem;">
-        <div class="card-body">
-          <h1>foto</h1>
-        </div>
-      </div>
-
-      <br/>
-
-      <div class="card" style="width: 8rem;">
-        <div class="card-body">
-          <h1>foto</h1>
-        </div>
-      </div>
-
-
+    <%end%>
   </div>
   <div class="col-6 col-md-8">
 
